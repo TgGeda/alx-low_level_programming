@@ -1,4 +1,4 @@
-#include "alx.h"
+#include "main.h"
 
 /**
  * print_times_table - prints times table for numbers from 0-14

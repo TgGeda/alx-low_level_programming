@@ -1,4 +1,4 @@
-#include "alx.h"
+#include "main.h"
 
 /**
  *_abs - Check alx
